@@ -1,2 +1,2 @@
-# Hwllo_world
+# Hello_world
 Practice Repository
